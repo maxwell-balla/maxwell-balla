@@ -15,11 +15,11 @@ Technologies utilisées : Python, Django, HTML, CSS, Bootstrap
 ### Projet 2 - Integrys (in Private)
 Description : Ce projet est une solution de gestion hospitalière développé avec Java Spring Boot. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
 
-(uniquement la partie Backend)
+NB : uniquement la partie Backend
 
 Technologies utilisées : Java, Spring Boot, MySQL
 
-[GitHub Repository](lien_vers_votre_projet_2)
+[GitHub Repository](le_projet_2_est_in_private)
 
 ### Projet 3 - JavaScript React
 Description : Ce projet est une application de liste de tâches développée avec JavaScript React. Il permet aux utilisateurs de créer des listes de tâches, d'ajouter des tâches, de les marquer comme terminées et de les supprimer.
