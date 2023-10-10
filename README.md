@@ -12,10 +12,12 @@ Technologies utilisées : Python, Django, HTML, CSS, Bootstrap
 
 [GitHub Repository](lien_vers_votre_projet_1)
 
-### Projet 2 - Java Spring Boot
-Description : Ce projet est un système de gestion des employés développé avec Java Spring Boot. Il permet aux utilisateurs de gérer les informations des employés, y compris leur nom, leur poste, leur salaire, etc.
+### Projet 2 - Integrys (in Private)
+Description : Ce projet est une solution de gestion hospitalière développé avec Java Spring Boot. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
 
-Technologies utilisées : Java, Spring Boot, MySQL, HTML, CSS
+(uniquement la partie Backend)
+
+Technologies utilisées : Java, Spring Boot, MySQL
 
 [GitHub Repository](lien_vers_votre_projet_2)
 
