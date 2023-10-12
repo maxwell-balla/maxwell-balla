@@ -5,12 +5,12 @@ Je suis un Développeur web addict à l'IA avec une expérience dans les technol
 
 ## Projets récents
 
-### Projet 1 - Chatbot (ChatGPT 3.5 extensible en 4)
-Description : Ce projet est le clone de ChatGPT 3.5 réalisé avec Django.
+### Projet 1 - Chatbot (ChatGPT-3.5 / ChatGPT-4)
+Description : Ce projet est le clone de ChatGPT 3.5 réalisé avec Django. Il suffit de quelques modifications pour avoir le clone de ChatGPT 4
 
 Langages utilisés : Python, HTML, CSS
 
-[GitHub Repository](lien_vers_votre_projet_1)
+[GitHub Repository](https://github.com/Tobirama237/chatbot.git)
 
 ### Projet 2 - Integrys (in Private)
 Description : Ce projet est une solution de gestion hospitalière développé avec Spring Boot et MySQL. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
