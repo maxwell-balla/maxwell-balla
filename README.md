@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil Github !
 
 ## À propos de moi
-Je suis un Développeur web addict à l'IA avec une expérience dans les technologies web, notamment Python Django (Senior), Java Spring Boot (Junior) et JavaScript React (Junior). Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets intéressants.
+Je suis un Développeur Web addict à l'IA avec une expérience dans les technologies web, notamment Python Django (Senior), Java Spring Boot (Junior) et JavaScript React (Junior). Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets intéressants.
 
 ## Projets récents
 
