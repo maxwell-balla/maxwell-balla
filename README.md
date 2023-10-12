@@ -5,26 +5,26 @@ Je suis un Développeur web addict à l'IA avec une expérience dans les technol
 
 ## Projets récents
 
-### Projet 1 - Python Django
-Description : Ce projet est une application web de gestion des tâches réalisée avec Python Django. Il permet aux utilisateurs de créer, mettre à jour et supprimer des tâches, ainsi que de les organiser dans des catégories.
+### Projet 1 - Chatbot (ChatGPT 3.5 extensible en 4)
+Description : Ce projet est le clone de ChatGPT 3.5 réalisé avec Django.
 
-Technologies utilisées : Python, Django, HTML, CSS, Bootstrap
+Langages utilisés : Python, HTML, CSS
 
 [GitHub Repository](lien_vers_votre_projet_1)
 
 ### Projet 2 - Integrys (in Private)
-Description : Ce projet est une solution de gestion hospitalière développé avec Java Spring Boot. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
+Description : Ce projet est une solution de gestion hospitalière développé avec Spring Boot et MySQL. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
 
 NB : uniquement la partie Backend
 
-Technologies utilisées : Java, Spring Boot, MySQL
+Langage utilisé : Java
 
 [GitHub Repository](le_projet_2_est_in_private)
 
 ### Projet 3 - JavaScript React
 Description : Ce projet est une application de liste de tâches développée avec JavaScript React. Il permet aux utilisateurs de créer des listes de tâches, d'ajouter des tâches, de les marquer comme terminées et de les supprimer.
 
-Technologies utilisées : JavaScript, React, CSS, Material-UI
+Langages utilisés : JavaScript, CSS
 
 [GitHub Repository](lien_vers_votre_projet_3)
 
