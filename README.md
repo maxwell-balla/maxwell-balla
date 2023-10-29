@@ -21,7 +21,14 @@ Langage utilisé : Java
 
 [GitHub Repository](le_projet_2_est_in_private)
 
-### Projet 3 - JavaScript React
+### Projet 3 - GED APP
+Description : Ce projet est une application GED développée avec Django Framework. Il permet aux utilisateurs de numeriser, partager, stocker les documents.
+
+Langages utilisés : Python, JavaScript, CSS, HTML
+
+[GitHub Repository](https://github.com/Tobirama237/GED.git/)
+
+### Projet 4 - JavaScript React
 Description : Ce projet est une application de liste de tâches développée avec JavaScript React. Il permet aux utilisateurs de créer des listes de tâches, d'ajouter des tâches, de les marquer comme terminées et de les supprimer.
 
 Langages utilisés : JavaScript, CSS
