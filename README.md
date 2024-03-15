@@ -1,44 +1,20 @@
-# Bienvenue sur mon profil Github !
+<h1 align="center">Hi 👋, I'm Maxwell Balla</h1>
+<h3 align="center">A passionate Craft Backend developer</h3>
 
-## À propos de moi
-Je suis un Développeur Web addict à l'IA avec une expérience dans les technologies web, notamment Python Django (Senior), Java Spring Boot (Junior) et JavaScript React (Junior). Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets intéressants.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max-coding" alt="max-coding" /></a> </p>
 
-## Projets récents
+- 💬 Ask me about **Spring Boot and Django**
 
-### Projet 1 - Chatbot (ChatGPT-3.5 / ChatGPT-4)
-Description : Ce projet est le clone de ChatGPT 3.5 réalisé avec Django. Il suffit de quelques modifications pour avoir le clone de ChatGPT 4
+- 📫 How to reach me **ballamaxwell7@gmail.com**
 
-Langages utilisés : Python, HTML, CSS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maxwell-balla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxwell-balla" height="30" width="40" /></a>
+</p>
 
-[GitHub Repository](https://github.com/Tobirama237/chatbot.git)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-### Projet 2 - Integrys (in Private)
-Description : Ce projet est une solution de gestion hospitalière développé avec Spring Boot et MySQL. Il permet aux hôpitaux de gérer un maximum d'éléments de leur quotidien, notamment les facturations, les Rendez-vous, le compte rendu, la pharmacie et stock, le budget et bien d'autres.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=max-coding&show_icons=true&locale=en&layout=compact" alt="max-coding" /></p>
 
-NB : uniquement la partie Backend
-
-Langage utilisé : Java
-
-[GitHub Repository](le_projet_2_est_in_private)
-
-### Projet 3 - GED APP
-Description : Ce projet est une application GED développée avec Django Framework. Il permet aux utilisateurs de numeriser, partager, stocker les documents.
-
-Langages utilisés : Python, JavaScript, CSS, HTML
-
-[GitHub Repository](https://github.com/Tobirama237/GED.git/)
-
-### Projet 4 - JavaScript React
-Description : Ce projet est une application de liste de tâches développée avec JavaScript React. Il permet aux utilisateurs de créer des listes de tâches, d'ajouter des tâches, de les marquer comme terminées et de les supprimer.
-
-Langages utilisés : JavaScript, CSS
-
-[GitHub Repository](lien_vers_votre_projet_3)
-
-N'hésitez pas à explorer mes autres projets sur mon profil Github pour voir d'autres exemples de mon travail !
-
-## Contact
-Si vous êtes intéressé par mon profil ou si vous souhaitez discuter de projets potentiels, n'hésitez pas à me contacter :
-
-- Email : ballamaxwell7@gmail.com
-- LinkedIn : https://www.linkedin.com/in/maxwell-balla/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-coding&show_icons=true&locale=en" alt="max-coding" /></p>
