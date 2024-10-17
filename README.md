@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max-coding" alt="max-coding" /></a> </p>
 
-- 💬 Ask me about **Java(Jakarta EE), Spring Framework, Spring Boot, Spring Data Jpa, Spring IO, Spring Security, Spring web, Spring Test, JUnit, Mockito, AsserJ**
+- 💬 Ask me about **Spring Framework**
 
 - 📫 How to reach me **ballamaxwell7@gmail.com**
 
